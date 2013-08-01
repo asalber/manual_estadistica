@@ -1,5 +1,5 @@
-% Alfredo Sánchez Alberca (asalber@gmail.com)
 % Manual de Estadística
+% Alfredo Sánchez Alberca (asalber@gmail.com)
 % Agosto 2013
 
 MANUAL DE ESTADÍSTICA
